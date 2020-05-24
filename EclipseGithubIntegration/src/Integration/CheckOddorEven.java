@@ -2,6 +2,7 @@ package Integration;
 import java.util.Scanner;
 
 public class CheckOddorEven {
+	/*Odd numbers are numbers that cannot be divided by 2. To identify a number as odd or even, we will look at their end number. If the number ends in a 0, 2, 4, 6, or 8, then it is even. If the number ends in a 1, 3, 5, 7, or 9, then it is odd.Aug 2, 2015*/
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
