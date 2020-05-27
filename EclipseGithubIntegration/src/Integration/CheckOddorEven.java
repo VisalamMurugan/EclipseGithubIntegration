@@ -1,6 +1,6 @@
 package Integration;
 import java.util.Scanner;
-
+/*Check odd or Even Numbers*/
 public class CheckOddorEven {
 	/*An even number is a number that can be divided into two equal groups.An odd number is a number that cannot be divided into two equal groups.*/
 	public static void main(String[] args) {
